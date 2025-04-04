@@ -5,7 +5,7 @@ A simple and powerful web app built using **Machine Learning**, **Streamlit**, a
 ---
 
 ## 🚀 Demo
-![App Screenshot]:Screenshot 2025-04-04 100559.png
+![App Screenshot]:[Screenshot 2025-04-04 100559.png](https://github.com/Tejasnyadav/diabetes-prediction-streamlit/blob/main/Screenshot%202025-04-04%20100559.png?raw=true)
 > Want to see the live app in action?  
 > **[Click Here to Open in Streamlit via ngrok (Colab)](https://your-ngrok-link-here)**  
 > *(Replace with your actual ngrok link)*
